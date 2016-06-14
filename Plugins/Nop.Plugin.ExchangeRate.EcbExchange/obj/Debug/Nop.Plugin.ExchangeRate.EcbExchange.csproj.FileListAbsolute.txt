@@ -1,0 +1,7 @@
+C:\Users\Administrator\Downloads\ProyectoFinal\ProyectoFinal\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+C:\Users\Administrator\Downloads\ProyectoFinal\ProyectoFinal\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+C:\Users\Administrator\Downloads\ProyectoFinal\ProyectoFinal\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+C:\Users\Administrator\Downloads\ProyectoFinal\ProyectoFinal\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\Administrator\Downloads\ProyectoFinal\ProyectoFinal\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\Users\Administrator\Downloads\ProyectoFinal\ProyectoFinal\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\Administrator\Downloads\ProyectoFinal\ProyectoFinal\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb
